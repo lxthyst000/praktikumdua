@@ -1,5 +1,5 @@
 <?php
-$barang = ["Buku Tulis", "Penghapus", "Spidol"];
+$barang = ["Buku paket", "Penghapus", "Spidol"];
 
 echo $barang[0]. "<br>";
 echo $barang[1]. "<br>";
