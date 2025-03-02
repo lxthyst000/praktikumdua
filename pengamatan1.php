@@ -1,5 +1,5 @@
 <?php
-$barang = ["GOBLOK"];
+$barang = ["WILDAN TAI"];
 
 echo $barang[0]. "<br>";
 echo $barang[1]. "<br>";
