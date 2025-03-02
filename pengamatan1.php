@@ -1,5 +1,5 @@
 <?php
-$barang = ["WILDAN TAI"];
+$barang = ["NILAI FRAMEWORK A"];
 
 echo $barang[0]. "<br>";
 echo $barang[1]. "<br>";
